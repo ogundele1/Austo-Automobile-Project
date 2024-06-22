@@ -36,28 +36,28 @@ data analysis and create a dashboard using Power BI to generate useful insights 
 
 <p align="center">
 
-<img src="https://imgur.com/8bjqbif.png" height="80%" width="80%" >
+<img src="https://imgur.com/1C6ANf4.png" height="100%" width="100%" >
 
 <p align="center">
 
-<img src="https://imgur.com/myi1STj.png" height="80%" width="80%" >
+<img src="https://imgur.com/hAzuVtn.png" height="100%" width="100%" >
 
 <p align="center">
 
-<img src="https://imgur.com/AYjySTv.png" height="80%" width="80%" >
+<img src="https://imgur.com/tVa1zZS.png" height="100%" width="100%" >
 <p align="center">
 
-<img src="https://imgur.com/h3JRPiT.png" height="80%" width="80%" >
+<img src="https://imgur.com/HMzBrDA.png" height="100%" width="100%" >
 
 <p align="center">
 
-<img src="https://imgur.com/HLbY4JA.png" height="80%" width="80%" >
+<img src="https://imgur.com/qHDG4uG.png" height="100%" width="100%" >
 <p align="center">
 
-<img src="https://imgur.com/0D46cqw.png" height="80%" width="80%" >
+<img src="https://imgur.com/fqiUiUF.png" height="100%" width="100%" >
 <p align="center">
 
-<img src="https://imgur.com/v9mkeie.png" height="80%" width="80%" >
+<img src="https://imgur.com/ig40cft.png" height="100%" width="100%" >
 
 
 <h2>INSIGHTS</h2
